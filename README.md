@@ -1,4 +1,3 @@
-# -Abkhas
 <div align="right">
 
 # أبخص | Abkhas
