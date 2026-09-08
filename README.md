@@ -6,12 +6,12 @@
 **اكتب هدفك… وأبخص يرسم لك خطواتك القادمة.**
 
 </div>
-
+https://0d3299b9-7abb-47c2-82b7-59b62102fe63-00-1a2j48lmv0t5o.sisko.replit.dev/
 <div dir="rtl" align="right">
 
 ### 🌐 التجربة المباشرة
 
-https://bkh-s-lmwj-wh-l-hkwmy--leen-almlauqi.replit.app/
+
 
 </div>
 
