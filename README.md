@@ -1,94 +1,87 @@
-<div align="right">
+<div dir="rtl" align="right">
 
-# أبخص | Abkhas
-### AI Government Service Navigator 🇸🇦
+# أبخص
+## مساعد الإجراءات الحكومية الذكي 🇸🇦
 
 **اكتب هدفك… وأبخص يرسم لك خطواتك القادمة.**
 
 </div>
 
-🌐 **التجربة المباشرة | Live Demo:**
+<div dir="rtl" align="right">
+
+### 🌐 التجربة المباشرة
+
 https://0d3299b9-7abb-47c2-82b7-59b62102fe63-00-1a2j48lmv0t5o.sisko.replit.dev
+
+</div>
 
 ---
 
-<div align="right">
+<div dir="rtl" align="right">
 
-## نبذة عن المشروع
+## 📌 نبذة عن المشروع
 
 منصة ذكية تساعد المستخدم على معرفة الإجراءات الحكومية المطلوبة حسب حالته، بدلًا من البحث المتفرّق بين المنصات والخدمات.
 
-المستخدم يكتب هدفه مرة واحدة، مثل:
+يكتب المستخدم هدفه مرة واحدة، مثل:
 
 > «أبي أفتح متجر إلكتروني في السعودية»
 
-ثم يفهم النظام الهدف ويجيب المستخدم عن أسئلة قصيرة، ليحصل على خطة مرتّبة خطوة بخطوة توضّح:
+ثم يفهم النظام الهدف، ويسأل أسئلة قصيرة لتوضيح الحالة، ويعرض خطة مرتّبة خطوة بخطوة.
+
+</div>
+
+---
+
+<div dir="rtl" align="right">
+
+## 🎯 ما الذي تقدّمه الخطة
 
 - الإجراءات المطلوبة وترتيبها الصحيح
 - الجهة أو المنصة المسؤولة عن كل إجراء
 - المتطلبات والمستندات لكل خطوة
-- الاعتمادات بين الخطوات (ما الذي يجب إنجازه قبل ماذا)
+- الاعتمادات بين الخطوات: ما الذي يجب إنجازه قبل غيره
+- رابط المصدر الرسمي لكل إجراء مع تاريخ التحقق
 
 </div>
 
 ---
 
-## About
+<div dir="rtl" align="right">
 
-**Abkhas** is an AI-powered government service navigator for Saudi Arabia. Instead of searching across multiple platforms, the user describes their goal once and receives an ordered roadmap: required procedures, the responsible authority or platform for each one, the documents needed, and the correct sequence.
-
-> Tell us your goal.
-> Abkhas maps out your next steps.
-
----
-
-<div align="right">
-
-## المميزات الرئيسية
+## ✨ المميزات
 
 | الميزة | الوصف |
 |---|---|
 | فهم الهدف | تحويل هدف مكتوب بلغة طبيعية إلى رحلة إجراءات |
-| أسئلة توضيحية | أسئلة قصيرة لتخصيص الخطة حسب الحالة |
+| أسئلة توضيحية | أسئلة قصيرة لتخصيص الخطة حسب حالة المستخدم |
 | خطة متسلسلة | خطوات مرتّبة مع المتطلبات والاعتمادات |
-| مصادر رسمية | ربط كل إجراء بمصدره الرسمي مع تاريخ التحقق |
-| تتبّع التقدّم | حفظ الرحلة وإنجاز الخطوات مع بقاء التقدّم بعد إعادة التحميل |
-| ثنائي اللغة | عربي (افتراضي، RTL) وإنجليزي (LTR) مع تبديل فوري |
-| طباعة | صفحة طباعة نظيفة للخطة |
+| مصادر رسمية | ربط كل إجراء بمصدره الرسمي وتاريخ تحققه |
+| تتبّع التقدّم | حفظ الرحلة وإنجاز الخطوات وبقاء التقدّم بعد إعادة التحميل |
+| دعم لغتين | العربية افتراضيًا باتجاه RTL، مع إمكانية التبديل للإنجليزية |
+| الطباعة | صفحة طباعة نظيفة للخطة |
 
 </div>
 
-## Key Features
-
-- Natural-language goal understanding
-- Short clarifying questions to tailor the roadmap
-- Sequenced steps with requirements and dependencies
-- Every published action linked to an official source with a verification date
-- Progress tracking that survives a page reload
-- Full Arabic (RTL, default) / English (LTR) support with instant switching
-- Print-friendly roadmap view
-
 ---
 
-<div align="right">
+<div dir="rtl" align="right">
 
-## أهداف التحقق (وليست نتائج مثبتة)
+## 📊 أهداف التحقق
 
-هذه مستهدفات قيد الاختبار، ولا تُعرض كنتائج نهائية:
+المؤشرات التالية مستهدفات قيد الاختبار، وليست نتائج مثبتة:
 
-- الوصول إلى الخطة خلال 3 دقائق أو أقل
-- قدرة 80% من المستخدمين التجريبيين على تحديد خطوتهم التالية
-- ارتباط 100% من الإجراءات المنشورة بمصادر رسمية وتاريخ تحقق
+- الوصول إلى الخطة خلال ٣ دقائق أو أقل
+- قدرة ٨٠٪ من المستخدمين التجريبيين على تحديد خطوتهم التالية
+- ارتباط ١٠٠٪ من الإجراءات المنشورة بمصادر رسمية وتاريخ تحقق
 
 </div>
 
-> **Note:** These are validation targets under testing, not confirmed results. Content marked as demo data is clearly separated from verified references inside the product.
-
 ---
 
-<div align="right">
+<div dir="rtl" align="right">
 
-## حالة المشروع
+## 🚧 حالة المشروع
 
 | المكوّن | الحالة |
 |---|---|
@@ -96,62 +89,49 @@ https://0d3299b9-7abb-47c2-82b7-59b62102fe63-00-1a2j48lmv0t5o.sisko.replit.dev
 | المحتوى الحكومي | بعض الحالات ببيانات تجريبية معلنة |
 | ربط المصادر الرسمية | يحتاج مراجعة محتوى قبل الإطلاق |
 
+المحتوى التجريبي مفصول بوضوح عن المراجع الموثقة داخل المنصة.
+
 </div>
 
 ---
 
-<div align="right">
+<div dir="rtl" align="right">
 
-## الفريق — المجموعة الثالثة
+## 🔒 ملاحظات تقنية
 
-</div>
-
-**Group 3 — Team Members**
-
-| # | الاسم | Name |
-|---|---|---|
-| 1 | غلا المطيري | Ghala Almutairi |
-| 2 | هند القرني | Hind Alqarni |
-| 3 | لين الملاقي | Leen Almalaqi |
-| 4 | كوثر هلال | Kawthar Hilal |
-| 5 | علي الزهراني | Ali Alzahrani |
-| 6 | شيخة سالم | Shaikha Salem |
-| 7 | عبدالرحمن الزهراني | Abdulrahman Alzahrani |
-| 8 | حنين الحازمي | Hanin Alhazmi |
-
----
-
-<div align="right">
-
-## الجهة المنظّمة
-
-هذا المشروع تم تطويره ضمن برنامج **أكاديمية سدايا | SDAIA Academy**.
+- مفاتيح الخدمات تُحفظ في الخادم ومتغيرات البيئة، ولا تُعرض في المتصفح
+- سجلات التحليلات لا تتضمن نص الهدف أو أي معلومات شخصية
+- التقدّم محفوظ محليًا على الجهاز، وغير متزامن بين الأجهزة
 
 </div>
 
-🔗 **SDAIA Academy:** https://github.com/SDAIAAcademy
-
 ---
 
-## الروابط | Links
+<div dir="rtl" align="right">
 
-| الرابط | Link |
+## 👥 الفريق — المجموعة الثالثة
+
+| # | الاسم |
 |---|---|
-| التجربة المباشرة / Live Demo | https://0d3299b9-7abb-47c2-82b7-59b62102fe63-00-1a2j48lmv0t5o.sisko.replit.dev |
-| أكاديمية سدايا / SDAIA Academy | https://github.com/SDAIAAcademy |
-
----
-
-<div align="right">
-
-## ملاحظات تقنية
-
-- مفاتيح الخدمات تُحفظ في الخادم ومتغيرات البيئة، ولا تُعرض في المتصفح.
-- سجلات التحليلات لا تتضمن نص الهدف أو أي معلومات شخصية.
-- التقدّم محفوظ محليًا على الجهاز، وغير متزامن بين الأجهزة.
+| ١ | غلا المطيري |
+| ٢ | هند القرني |
+| ٣ | لين الملاقي |
+| ٤ | كوثر هلال |
+| ٥ | علي الزهراني |
+| ٦ | شيخة سالم |
+| ٧ | عبدالرحمن الزهراني |
+| ٨ | حنين الحازمي |
 
 </div>
 
-- Service keys live server-side in environment variables and are never exposed to the browser.
-- Analytics events exclude goal text and personal information.
-- Progress is stored locally on the device and is **not** synced across devices.
+---
+
+<div dir="rtl" align="right">
+
+## 🏛️ الجهة المنظّمة
+
+طُوّر هذا المشروع ضمن برنامج **أكاديمية سدايا**.
+
+https://github.com/SDAIAAcademy
+
+</div>
